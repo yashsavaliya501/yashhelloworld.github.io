@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=408,height=408,fit=cover,g=0.5x0.5,f=auto/128be1b22e48ca511601be58ab856c76.png",
+    "name": "Match Arena",
+    "url": "https://poki.com/en/g/match-arena",
+    "id": "stories/match-arena.json"
+  },
+  {
+    "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,g=0.5x0.5,f=auto/d3356dfa9e6845d4e26f779fa405bb4e.jpeg",
+    "name": "Subway Surfers",
+    "url": "https://poki.com/en/g/subway-surfers",
+    "id": "stories/subway-surfers.json"
+  },
+  {
+    "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,g=0.5x0.5,f=auto/c23a554a7cb198faf9144bb3ee933eb4.jpeg",
+    "name": "Pop It Master",
+    "url": "https://poki.com/en/g/pop-it-master",
+    "id": "stories/pop-it-master.json"
+  },
+  {
+    "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,g=0.5x0.5,f=auto/9f07237f8362bcb7800df4a1ab91ab92.png",
+    "name": "Pony DressUp 2",
+    "url": "https://poki.com/en/g/pony-dressup-2",
+    "id": "stories/pony-dressup-2.json"
+  },
+  {
+    "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=188,height=188,fit=cover,g=0.5x0.5,f=auto/6d91b5eed1cff1377c45199b5278bd72.png",
+    "name": "Love Finder Profile",
+    "url": "https://poki.com/en/g/love-finder-profile",
+    "id": "stories/love-finder-profile.json"
+  }
+]

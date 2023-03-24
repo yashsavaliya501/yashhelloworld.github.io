@@ -1,0 +1,255 @@
+[
+  {
+    "name": "War Sky",
+    "icon": "https://imgs2.dab3games.com/war-sky-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/war-sky2/"
+  },
+  {
+    "name": "Air Fight",
+    "icon": "https://imgs2.dab3games.com/air-fight-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/air-fight2/"
+  },
+  {
+    "name": "Flight Simulator",
+    "icon": "https://imgs2.dab3games.com/flight-simulator-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/flight-simulator5/"
+  },
+  {
+    "name": "Air Strike",
+    "icon": "https://imgs2.dab3games.com/air-strike-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/air-strike2/"
+  },
+  {
+    "name": "Dog Fight",
+    "icon": "https://imgs2.dab3games.com/dog-fight-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/live/dog-fight11/"
+  },
+  {
+    "name": "Air Traffic Control",
+    "icon": "https://imgs2.dab3games.com/air-traffic-control-602.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/air-traffic-control-17131/"
+  },
+  {
+    "name": "Tank Defender",
+    "icon": "https://imgs2.dab3games.com/tank-defender-ltf-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/TankDefender-tps/"
+  },
+  {
+    "name": "Airport Rush",
+    "icon": "https://imgs2.dab3games.com/airport-rush-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/airport-rush-tps/"
+  },
+  {
+    "name": "Funny Traveling Airport",
+    "icon": "https://imgs2.dab3games.com/funny-traveling-airport14.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/funnytravelingairport19/"
+  },
+  {
+    "name": "Airplane Survival",
+    "icon": "https://imgs2.dab3games.com/airplane-survival-1951.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/airplane-survival-4230/"
+  },
+  {
+    "name": "Airplane Battle",
+    "icon": "https://imgs2.dab3games.com/airplane-battle-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/airplane-battle/"
+  },
+  {
+    "name": "Risky Rescue",
+    "icon": "https://imgs2.dab3games.com/risky-rescue-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/risky-rescue/"
+  },
+  {
+    "name": "Paper Airplane",
+    "icon": "https://imgs2.dab3games.com/paper-airplane-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/paper-airplane2/"
+  },
+  {
+    "name": "Air War 1941",
+    "icon": "https://imgs2.dab3games.com/air-war-1941-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/air-war-19412/"
+  },
+  {
+    "name": "Prosecution",
+    "icon": "https://imgs2.dab3games.com/prosecution-game-wox.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/pilot-heroes/A-0D1OG"
+  },
+  {
+    "name": "Barbarian Escape",
+    "icon": "https://imgs2.dab3games.com/barbarian-escape-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/barbarian-escape/"
+  },
+  {
+    "name": "Missile Dodge",
+    "icon": "https://imgs2.dab3games.com/missile-dodge-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/missile-dodge/"
+  },
+  {
+    "name": "Air Wolves",
+    "icon": "https://imgs2.dab3games.com/air-wolves-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/air-wolves2/"
+  },
+  {
+    "name": "Puppy Rescue",
+    "icon": "https://imgs2.dab3games.com/puppy-rescue-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/puppy-rescue2/"
+  },
+  {
+    "name": "Rocket Flight",
+    "icon": "https://imgs2.dab3games.com/rocket-flight-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/rocket-flight2/"
+  },
+  {
+    "name": "Space Rocket",
+    "icon": "https://imgs2.dab3games.com/space-rocket-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/space-rocket3/"
+  },
+  {
+    "name": "Stunt Planes",
+    "icon": "https://imgs2.dab3games.com/stunt-planes-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stunt-planes/"
+  },
+  {
+    "name": "Missile",
+    "icon": "https://imgs2.dab3games.com/missile-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/missile/"
+  },
+  {
+    "name": "Sheep",
+    "icon": "https://imgs2.dab3games.com/sheep-ypo-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/sheep/"
+  },
+  {
+    "name": "Sky Warriors",
+    "icon": "https://imgs2.dab3games.com/sky-warriors-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/sky-warriors2/"
+  },
+  {
+    "name": "SpeedUp",
+    "icon": "https://imgs2.dab3games.com/speedup-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/speedup/"
+  },
+  {
+    "name": "Human Vehicle",
+    "icon": "https://imgs2.dab3games.com/human-vehicle5842.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/human-vehicle-battle-15609/"
+  },
+  {
+    "name": "Paper Flight",
+    "icon": "https://imgs2.dab3games.com/paper-flight-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/d5ad6e62578b4018817d9f35f59b893b/?gd_sdk_referrer_url=https://lagged.com/en/g/paper-flight"
+  },
+  {
+    "name": "Paper Flight 2",
+    "icon": "https://imgs2.dab3games.com/paper-flight-23522.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/5a4b370ddd004b31830ed930e3619aea/?gd_sdk_referrer_url=https://lagged.com/en/g/paper-flight-2"
+  },
+  {
+    "name": "Merge and Fly",
+    "icon": "https://imgs2.dab3games.com/merge-and-fly1481.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/263986930e564c4e9a6c19c9302d6090/?gd_sdk_referrer_url=https://lagged.com/en/g/merge-and-fly"
+  },
+  {
+    "name": "X Trench Run",
+    "icon": "https://imgs2.dab3games.com/x-trench-run-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/24d6db9a49d94cc28cf6c5b0073adb28/?gd_sdk_referrer_url=https://lagged.com/en/g/x-trench-run"
+  },
+  {
+    "name": "Air Traffic Controller",
+    "icon": "https://imgs2.dab3games.com/air-traffic-controller-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/23f2507280514beaa752f810902bdc3f/?gd_sdk_referrer_url=https://lagged.com/en/g/air-traffic-controller"
+  },
+  {
+    "name": "Pilot Heroes",
+    "icon": "https://imgs2.dab3games.com/pilot-heroes-game.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/pilot-heroes/A-0D1OG"
+  },
+  {
+    "name": "Air Attack",
+    "icon": "https://imgs2.dab3games.com/air-attack-1496.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/air-attack-9074/"
+  },
+  {
+    "name": "Swooop",
+    "icon": "https://imgs2.dab3games.com/swooop-game-ddb.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/swooop/A-0D1OG"
+  },
+  {
+    "name": "Helicopter",
+    "icon": "https://imgs2.dab3games.com/helicopter-game.png",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/helicopter/"
+  },
+  {
+    "name": "Airport Buzz",
+    "icon": "https://imgs2.dab3games.com/airport-buzz-200.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/flight-simulator5/"
+  },
+  {
+    "name": "One More Flight",
+    "icon": "https://imgs2.dab3games.com/one-more-flight-game-uqw.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/e3df95b8f95747b4ae0d2e109e8411de/?gd_sdk_referrer_url=https://lagged.com/en/g/one-more-flight"
+  },
+  {
+    "name": "Paper Plane",
+    "icon": "https://imgs2.dab3games.com/paper-airplane-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0b5a3852318949e0bf1936ae9b5ced42/?gd_sdk_referrer_url=https://lagged.com/en/g/paper-plane"
+  },
+  {
+    "name": "Paper Plane Flight",
+    "icon": "https://imgs2.dab3games.com/paper-plane-flight-game-o77.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/paper-plane-flight/A-0D1OG"
+  },
+  {
+    "name": "Drone Delivery",
+    "icon": "https://imgs2.dab3games.com/drone-delivery-game-ah0.jpg",
+    "is_landscape": false,
+    "url": "http://html5.gamedistribution.com/692a037f2b5042a1b679bb7e2bb90378/?gd_sdk_referrer_url=https://lagged.com/en/g/drone-delivery"
+  },
+  {
+    "name": "Shoot The Asteroids",
+    "icon": "https://imgs2.dab3games.com/shoot-the-asteroids-667.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/shoot-the-asteroids-16693/"
+  }
+
+]

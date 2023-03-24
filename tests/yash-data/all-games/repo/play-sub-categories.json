@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Arcade Games",
+    "icon": "https://imgs2.dab3games.com/sonic-runner-game.png",
+    "games": "categories/arcade-games/arcade_games.json"
+  },
+  {
+    "name": "Animal Games",
+    "icon": "https://imgs2.dab3games.com/save-the-dog--rescue-the-dog-969.png",
+    "games": "categories/arcade-games/animal_games.json"
+  },
+  {
+    "name": "Stickman Games",
+    "icon": "https://play-lh.googleusercontent.com/MAZQRPKn6qpSaVwOnZVDqSFox-h88uDgJ5P4mzugG4Ya_HsDnf59TkN4neb-N086Mw",
+    "games": "categories/action-games/stickman_games.json"
+  },
+  {
+    "name": "Music Games",
+    "icon": "https://imgs2.dab3games.com/neon-dance-game30.png",
+    "games": "categories/arcade-games/music_games.json"
+  },
+  {
+    "name": "Ninja Games",
+    "icon": "https://imgs2.dab3games.com/stealth-master-3d-game15.png",
+    "games": "categories/arcade-games/ninja_games.json"
+  },
+  {
+    "name": "Crazy Games",
+    "icon": "https://imgs2.dab3games.com/hopping-heads-game3.png",
+    "games": "categories/arcade-games/crazy_games.json"
+  },
+  {
+    "name": "Racing Games",
+    "icon": "https://cdn6.aptoide.com/imgs/d/e/1/de1608edd28a7503e7bb528a2cbf8378_icon.png",
+    "games": "categories/car-games/racing_games.json"
+  },
+  {
+    "name": "Puzzle Games",
+    "icon": "https://imgs2.dab3games.com/save-the-girl-game.png",
+    "games": "categories/puzzle-games/puzzle_games.json"
+  },
+  {
+    "name": "Archery Games",
+    "icon": "https://imgs2.dab3games.com/small-archer-game.png",
+    "games": "categories/puzzle-games/archery_games.json"
+  },
+  {
+    "name": "Clicker Games",
+    "icon": "https://imgs2.dab3games.com/pop-it-puzzle-game4.png",
+    "games": "categories/puzzle-games/clicker_games.json"
+  },
+  {
+    "name": "Basketball Games",
+    "icon": "https://imgs2.dab3games.com/super-hoops-basketball-1674.png",
+    "games": "categories/sport-games/basketball_games.json"
+  },
+  {
+    "name": "Soccer Games",
+    "icon": "https://imgs2.dab3games.com/battle-arena-soccer23.png",
+    "games": "categories/sport-games/soccer_games.json"
+  },
+  {
+    "name": "Running Games",
+    "icon": "https://i.scdn.co/image/ab67616d0000b273222806e5d36a1eae01e9cd9a",
+    "games": "categories/running-games/running_games.json"
+  },
+  {
+    "name": "Sniper Games",
+    "icon": "https://play-lh.googleusercontent.com/NoqPAKQPBJsuey-p-_MFFgJ9wZU8FrDT8LcpclFiGikvAQVRhQWZ1VDdCe-stc174Ts=rw",
+    "games": "categories/action-games/sniper_games.json"
+  }
+]

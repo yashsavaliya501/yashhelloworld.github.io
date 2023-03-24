@@ -1,0 +1,45 @@
+{
+  "ads_config": {
+    "admob_app_id": "ca-app-pub-3996962326036356~5993201317",
+    "admob_app_open": "ca-app-pub-3996962326036356/3367037973",
+    "admob_banner": "...",
+    "admob_inter": "ca-app-pub-3996962326036356/9772664225",
+    "admob_native": "...",
+
+    "applovin_banner": "9ef5f938845ed954",
+    "applovin_inter": "bf3eb32653b02ac8",
+    "applovin_native": "b9cc36df75dac39f",
+
+    "fan_banner": "...",
+    "fan_inter": "...",
+    "fan_mrec": "...",
+    "fan_native_banner": "...",
+    "fan_native": "...",
+
+    "ironsource_app_key": "15252eff1",
+
+    "unity_banner": "Banner_Android",
+    "unity_game_id": "111111",
+    "unity_inter": "Interstitial_Android",
+
+    "house_inter_state": false,
+    "house_native_state": false,
+    "house_banner_state": false,
+    "house_inter_repo": "/house-ads/interstitial.json",
+    "house_native_repo": "/house-ads/native.json",
+    "house_banner_repo": "/house-ads/banner.json",
+    
+    "house_app_open": "",
+
+    "inter_mode": "...",
+    "inter_mix": "...",
+    "native_mode": "...",
+    "banner_mode": "...",
+    
+    "enable_mix_mode": true,
+    "max_clicks": 1,
+    "mrec_mode": "...",
+    "enable_native_banner": false
+    
+  }
+}

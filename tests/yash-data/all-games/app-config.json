@@ -1,0 +1,17 @@
+{
+  "app_config": {
+      
+    "more_apps_link": "https://play.google.com/store/apps/developer?id=GOO+Studio",
+
+    "update": {
+      "app_version": "2.0.0",
+      "enable_update_close": true,
+      "update_msg": "Update to the latest version"
+    },
+    
+    "js_scripts": {
+        "first_script": "javascript:(function() {document.getElementsByClassName('sc-11iy2px-0 bBxGFm')[0].click();})()",
+        "second_script": "javascript:(function() {document.getElementsByClassName('sc-1qqf4i2-0 kPbfpb')[0].style.display='none';document.getElementsByClassName('sc-1thi3bz-0 jKLIEp')[0].style.display='none';})()"
+    }
+  }
+}

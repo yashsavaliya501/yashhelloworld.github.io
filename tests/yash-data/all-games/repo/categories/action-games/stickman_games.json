@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Thief Puzzle",
+    "icon": "https://imgs2.dab3games.com/thief-puzzle-929.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/thief-puzzle-11994/"
+  },
+  {
+    "name": "Escape from Prison",
+    "icon": "https://imgs2.dab3games.com/escape-from-prison-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/escape-from-prison-new1/"
+  },
+  {
+    "name": "Spidey Swing",
+    "icon": "https://imgs2.dab3games.com/spidy-swing-game462.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/spidey-swing-7963/"
+  },
+  {
+    "name": "Web Slinging Race",
+    "icon": "https://imgs2.dab3games.com/web-slinging-race-game42.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/web-slinging-race/"
+  },
+  {
+    "name": "Thief Puzzle 2",
+    "icon": "https://imgs2.dab3games.com/thief-puzzle-2-game24.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/thiefpuzzle22/"
+  },
+  {
+    "name": "Killer City",
+    "icon": "https://imgs2.dab3games.com/killer-city-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/killer-city5/"
+  },
+  {
+    "name": "Stickman Rope",
+    "icon": "https://imgs2.dab3games.com/stickman-rope-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/029f632bdc32475d97cfa78847b796ab/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-rope"
+  },
+  {
+    "name": "Stick City",
+    "icon": "https://imgs2.dab3games.com/stick-city-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stick-city-new2/"
+  },
+  {
+    "name": "Get to the Choppa",
+    "icon": "https://imgs2.dab3games.com/get-to-the-choppa-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/get-to-the-choppa2/"
+  },
+  {
+    "name": "Stickman GTA",
+    "icon": "https://imgs2.dab3games.com/stickman-gta-game19.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickmangta11/"
+  },
+  {
+    "name": "Cyber City",
+    "icon": "https://imgs2.dab3games.com/cyber-city-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/cyber-city-real6/"
+  },
+  {
+    "name": "Stickman Hero",
+    "icon": "https://imgs2.dab3games.com/stickman-hero-game24.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-hero5/"
+  },
+  {
+    "name": "Stickman Fight",
+    "icon": "https://imgs2.dab3games.com/stickman-fight-game10.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickmanfighter15/"
+  },
+  {
+    "name": "Rope Dude",
+    "icon": "https://imgs2.dab3games.com/rope-dude-game42.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ropedude2/"
+  },
+  {
+    "name": "Ropeman Online",
+    "icon": "https://imgs2.dab3games.com/ropeman-game25.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ropemanonline5/"
+  },
+  {
+    "name": "Ragdoll Rise Up",
+    "icon": "https://imgs2.dab3games.com/ragdoll-rise-up-760.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ragdoll-rise-up-6954/"
+  },
+  {
+    "name": "Sniper Assassin 2",
+    "icon": "https://imgs2.dab3games.com/sniper-assassin-2-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/sniper-assassin-2f/"
+  },
+  {
+    "name": "Ragdoll Swing",
+    "icon": "https://imgs2.dab3games.com/ragdoll-swing-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ragdoll-swing-lagged5/"
+  },
+  {
+    "name": "Stickman Trail",
+    "icon": "https://imgs2.dab3games.com/stickman-trail-1136.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-trail-14901/"
+  },
+  {
+    "name": "Stickman Battle Royale",
+    "icon": "https://imgs2.dab3games.com/stickman-battle-royale-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-battle-royale4/"
+  },
+  {
+    "name": "Let's Go Jaywalking",
+    "icon": "https://imgs2.dab3games.com/lets-go-jaywalking-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/lets-go-jaywalking/"
+  },
+  {
+    "name": "Hanger",
+    "icon": "https://imgs2.dab3games.com/hanger-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/029f632bdc32475d97cfa78847b796ab/?gd_sdk_referrer_url=https://lagged.com/en/g/hanger"
+  },
+  {
+    "name": "The Last Ninja",
+    "icon": "https://imgs2.dab3games.com/the-last-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/the-last-ninja-db4/"
+  },
+  {
+    "name": "Hanger 2",
+    "icon": "https://imgs2.dab3games.com/hanger-2-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/7c55e325cfa441e08416e610253e02c3/?gd_sdk_referrer_url=https://lagged.com/en/g/hanger-2"
+  },
+  {
+    "name": "Kill the Dummy",
+    "icon": "https://imgs2.dab3games.com/kill-the-dummy-game2.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/killthedummy9/"
+  },
+  {
+    "name": "Sky Diving",
+    "icon": "https://imgs2.dab3games.com/sky-diving-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/sky-diving3/"
+  },
+  {
+    "name": "Parkour Swing",
+    "icon": "https://imgs2.dab3games.com/parkour-swing-game718.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/parkour-swing-130/"
+  },
+  {
+    "name": "Stick World",
+    "icon": "https://imgs2.dab3games.com/stick-world-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickworld7/"
+  },
+  {
+    "name": "Vex 6",
+    "icon": "https://imgs2.dab3games.com/vex-68400.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/?gd_sdk_referrer_url=https://lagged.com/en/g/vex-6"
+  },
+  {
+    "name": "Stickman Sniper 3",
+    "icon": "https://imgs2.dab3games.com/stickman-sniper-3-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-sniper-3b/"
+  },
+  {
+    "name": "Stick Running",
+    "icon": "https://imgs2.dab3games.com/stick-running-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/stick-running/"
+  },
+  {
+    "name": "Words Story",
+    "icon": "https://imgs2.dab3games.com/words-story-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/words-story/"
+  },
+  {
+    "name": "Stick Archery 2",
+    "icon": "https://imgs2.dab3games.com/stick-archery-2-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stick-archery-2/"
+  },
+  {
+    "name": "Sniper Assassin",
+    "icon": "https://imgs2.dab3games.com/sniper-assassin-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/sniper-assassin2/"
+  },
+  {
+    "name": "Ragdoll Tennis",
+    "icon": "https://imgs2.dab3games.com/ragdoll-tennis-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ragdoll-tennis/"
+  },
+  {
+    "name": "Avoid Dying",
+    "icon": "https://imgs2.dab3games.com/avoid-dying-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/avoid-dying/"
+  },
+  {
+    "name": "Spear Stickman",
+    "icon": "https://imgs2.dab3games.com/spear-stickman-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/spear-stickman-db3/"
+  },
+  {
+    "name": "Archery Battle",
+    "icon": "https://imgs2.dab3games.com/archery-battle-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/archery-battle-db/"
+  },
+  {
+    "name": "Sniper Shot 3D",
+    "icon": "https://imgs2.dab3games.com/sniper-shot-3d-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/sniper-shot-3d7/"
+  },
+  {
+    "name": "Light People on Fire",
+    "icon": "https://imgs2.dab3games.com/light-people-on-fire-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/light-people-on-fire/"
+  },
+  {
+    "name": "Avoid the Spikes",
+    "icon": "https://imgs2.dab3games.com/avoid-the-spikes-game-koqoz.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/avoidthespikes/"
+  },
+  {
+    "name": "Stickman Fighter",
+    "icon": "https://imgs2.dab3games.com/stickman-brawl-fight-200.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/b91615ae558c4b4caab812eb3c02fa9e/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-fighter"
+  },
+  {
+    "name": "Stickman War",
+    "icon": "https://imgs2.dab3games.com/stickman-war-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-war3/"
+  },
+  {
+    "name": "Tactical Squad",
+    "icon": "https://imgs2.dab3games.com/tactical-sniper-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/tactical-squad-3196/"
+  },
+  {
+    "name": "Christmas Sniper",
+    "icon": "https://imgs2.dab3games.com/christmas-sniper-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/christmas-sniper/"
+  },
+  {
+    "name": "Freehead Skate",
+    "icon": "https://imgs2.dab3games.com/freehead-skate-921.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/freehead-skate-18924/"
+  },
+  {
+    "name": "Stickman Surfer",
+    "icon": "https://imgs2.dab3games.com/stickman-surfer-game35.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickmansurf6/"
+  },
+  {
+    "name": "Bowman",
+    "icon": "https://imgs2.dab3games.com/bowman-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/bowman3/"
+  },
+  {
+    "name": "Mountain Bike Racing",
+    "icon": "https://imgs2.dab3games.com/mountain-bike-racing-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/mountain-bike-racing3/"
+  },
+  {
+    "name": "Stick Jump",
+    "icon": "https://imgs2.dab3games.com/stick-jump-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stick-jump/"
+  },
+  {
+    "name": "Punch Man",
+    "icon": "https://imgs2.dab3games.com/punch-man-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/punch-man5/"
+  },
+  {
+    "name": "StickJet Challenge",
+    "icon": "https://imgs2.dab3games.com/stickjet-challenge-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickjet-challenge9/"
+  },
+  {
+    "name": "Extreme Golf",
+    "icon": "https://imgs2.dab3games.com/extreme-golf-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/extreme-golf/"
+  },
+  {
+    "name": "Stickman Archer",
+    "icon": "https://imgs2.dab3games.com/stickman-archer-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-archer/"
+  },
+  {
+    "name": "Indi Cannon",
+    "icon": "https://imgs2.dab3games.com/indi-cannon-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/indie-cannon7/"
+  },
+  {
+    "name": "Shoot or Die",
+    "icon": "https://imgs2.dab3games.com/shoot-or-die-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/shoot-or-die/"
+  },
+  {
+    "name": "Halloween Archer",
+    "icon": "https://imgs2.dab3games.com/halloween-archer-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/halloween-archer2/"
+  },
+  {
+    "name": "Stick Archery",
+    "icon": "https://imgs2.dab3games.com/stick-archery-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stick-archery2/"
+  },
+  {
+    "name": "Stickman Runner",
+    "icon": "https://imgs2.dab3games.com/stickman-runner-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-runner3/"
+  },
+  {
+    "name": "Xmas Wheelie",
+    "icon": "https://imgs2.dab3games.com/xmas-wheelie-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/xmas-wheelie/"
+  },
+  {
+    "name": "Archery Target Practice",
+    "icon": "https://imgs2.dab3games.com/archery-target-practice-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/archery-target-practice8/"
+  },
+  {
+    "name": "Super Stickman Golf",
+    "icon": "https://imgs2.dab3games.com/super-stickman-golf-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/super-stickman-golf4/"
+  },
+  {
+    "name": "Find a Gap",
+    "icon": "https://imgs2.dab3games.com/find-a-gap-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/find-the-gap-full-tps/"
+  },
+  {
+    "name": "Stick Tennis",
+    "icon": "https://imgs2.dab3games.com/stick-tennis-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stick-tennis2/"
+  },
+  {
+    "name": "Stickman Jump",
+    "icon": "https://imgs2.dab3games.com/stickman-jump-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/stickman-jump/"
+  },
+  {
+    "name": "Super Stickman Golf",
+    "icon": "https://imgs2.dab3games.com/super-stickman-golf-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/super-stickman-golf4/"
+  },
+  {
+    "name": "Stick Golf",
+    "icon": "https://imgs2.dab3games.com/stick-golf-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stick-golf2/"
+  },
+  {
+    "name": "Falling Spidy",
+    "icon": "https://imgs2.dab3games.com/falling-spidy-game34.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-dismount/"
+  },
+  {
+    "name": "Funny Grab Items Puzzle",
+    "icon": "https://imgs2.dab3games.com/funny-grab-puzzle-game6.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/thief-puzzle-11994/"
+  },
+  {
+    "name": "Stickman Dismount Broken Bones",
+    "icon": "https://imgs2.dab3games.com/stickman-dismount-2735.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-dismount/"
+  },
+  {
+    "name": "Bridge Race 2",
+    "icon": "https://imgs2.dab3games.com/bridge-race-2-game21.png",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/stair-race-3d/A-0D1OG"
+  },
+  {
+    "name": "Stickman Falling",
+    "icon": "https://imgs2.dab3games.com/stickman-falling-game45.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-dismount/"
+  },
+  {
+    "name": "Human Vehicle",
+    "icon": "https://imgs2.dab3games.com/human-vehicle5842.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/human-vehicle-battle-15609/"
+  },
+  {
+    "name": "Troll Robber",
+    "icon": "https://imgs2.dab3games.com/troll-robber-game7.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/thief-puzzle-11994/"
+  },
+  {
+    "name": "Stick Duel",
+    "icon": "https://imgs2.dab3games.com/stickman-duel-game617.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stick-duel--medieval-wars/"
+  },
+  {
+    "name": "Vex 5",
+    "icon": "https://imgs2.dab3games.com/vex-5-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/?gd_sdk_referrer_url=https://lagged.com/en/g/vex-5"
+  },
+  {
+    "name": "Stickman Dismount",
+    "icon": "https://imgs2.dab3games.com/stickman-dismount-game688.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-dismount/"
+  },
+  {
+    "name": "Vex 7",
+    "icon": "https://imgs2.dab3games.com/vex-72880.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c/?gd_sdk_referrer_url=https://lagged.com/en/g/vex-7"
+  },
+  {
+    "name": "Tank Stars 2",
+    "icon": "https://imgs2.dab3games.com/tank-stars-2-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/30909025c904404b82a95e9ffef834d9/?gd_sdk_referrer_url=https://lagged.com/en/g/tank-stars-2"
+  },
+  {
+    "name": "Smash Buddy",
+    "icon": "https://imgs2.dab3games.com/buddy-smash-game35.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ropedude2/"
+  },
+  {
+    "name": "Stickman Huggy 2",
+    "icon": "https://imgs2.dab3games.com/stickman-huggy-2656.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-huggy-2-18726/"
+  },
+  {
+    "name": "Vex 3",
+    "icon": "https://imgs2.dab3games.com/vex-3-game-2cl.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/?gd_sdk_referrer_url=https://lagged.com/en/g/vex-3"
+  },
+  {
+    "name": "Stick GTA",
+    "icon": "https://imgs2.dab3games.com/gta-5-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/killer-city5/"
+  },
+  {
+    "name": "Escaping the Prison",
+    "icon": "https://imgs2.dab3games.com/escaping-the-prison-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/escape-from-prison-new1/"
+  },
+  {
+    "name": "Super Stickman Duelist",
+    "icon": "https://imgs2.dab3games.com/stickman-duel-game116.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/96b528f6f1cc456cb92f0e1aab47ee47/?gd_sdk_referrer_url=https://lagged.com/en/g/super-stickman-duelist"
+  },
+  {
+    "name": "Vex 4",
+    "icon": "https://imgs2.dab3games.com/vex-4-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/?gd_sdk_referrer_url=https://lagged.com/en/g/vex-4"
+  },
+  {
+    "name": "Stickman Sniper",
+    "icon": "https://imgs2.dab3games.com/stickman-sniper-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/1c2e425082cc437f99b83912ec678c41/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-sniper"
+  },
+  {
+    "name": "Giant Rush",
+    "icon": "https://imgs2.dab3games.com/giant-rush7570.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/721d23c521c4447a8f8cedc31377f271/?gd_sdk_referrer_url=https://lagged.com/en/g/giant-rush"
+  },
+  {
+    "name": "Crowd Evolution",
+    "icon": "https://imgs2.dab3games.com/crowd-evolution-game31.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/crowd-city-online3/"
+  },
+  {
+    "name": "Escape the Prison 2",
+    "icon": "https://imgs2.dab3games.com/escape-the-prison-234.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/escape-from-prison-new1/"
+  },
+  {
+    "name": "Escape Thief Puzzle",
+    "icon": "https://imgs2.dab3games.com/escape-thief-puzzle-game39.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/thief-puzzle-11994/"
+  },
+  {
+    "name": "Coffee Stack",
+    "icon": "https://imgs2.dab3games.com/coffee-stack1368.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/366b7f5db32b4dd1ab81f333f4265c2e/?gd_sdk_referrer_url=https://lagged.com/en/g/coffee-stack"
+  },
+  {
+    "name": "Destroy the Stickman",
+    "icon": "https://imgs2.dab3games.com/destroy-the-stickman5965.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/80708ae6cba34925a2f8d18a665fcf8c/?gd_sdk_referrer_url=https://lagged.com/en/g/destroy-the-stickman"
+  },
+  {
+    "name": "Stickman Maverick",
+    "icon": "https://imgs2.dab3games.com/stickman-maverick-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/ce6c0f3f4fd645c3a848ec37c96435b6/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-maverick"
+  },
+  {
+    "name": "Epic Stickman Challenge",
+    "icon": "https://imgs2.dab3games.com/stickman-fighting-148.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickmanfighter15/"
+  },
+  {
+    "name": "The Archers 2",
+    "icon": "https://imgs2.dab3games.com/the-archers-2-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/bfef68e171074c2fb0f0054dbcdd7fce/?gd_sdk_referrer_url=https://lagged.com/en/g/the-archer-2"
+  },
+  {
+    "name": "Mental Hospital Escape",
+    "icon": "https://imgs2.dab3games.com/mental-hospital-escape8266.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/cdbe156e3eb74bac9f7987714f2d3c9d/?gd_sdk_referrer_url=https://lagged.com/en/g/mental-hospital-escape"
+  },
+  {
+    "name": "Red and Blue Stickman Rope",
+    "icon": "https://imgs2.dab3games.com/red-and-blue-stickman-rope-138.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/red-and-blue-stickman-rope-18220/"
+  },
+  {
+    "name": "Noob vs Pro vs Stickman Jailbreak",
+    "icon": "https://imgs2.dab3games.com/noob-vs-pro-vs-stickman-jailbreak7183.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/beda74ab98784a6c89773aa10af5e6ca/?gd_sdk_referrer_url=https://lagged.com/en/g/noob-vs-pro-vs-stickman-jailbreak"
+  },
+  {
+    "name": "Save the Stickman",
+    "icon": "https://imgs2.dab3games.com/save-the-stickman-game35.png",
+    "is_landscape": false,
+    "url": "https://play.gamepix.com/save-the-stickman/embed?sid=30059"
+  },
+  {
+    "name": "Food Empire Inc",
+    "icon": "https://imgs2.dab3games.com/food-empire-inc8112.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/2e55d287c0ea4e4b81ff0cd2091c5e20/?gd_sdk_referrer_url=https://lagged.com/en/g/food-empire-inc"
+  },
+  {
+    "name": "Epic Hole Runner",
+    "icon": "https://imgs2.dab3games.com/epic-hole-runner9770.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/177a5de7cc4d49f391f8b5b6fcc06af0/?gd_sdk_referrer_url=https://lagged.com/en/g/epic-hole-runner"
+  },
+  {
+    "name": "Long Neck Run",
+    "icon": "https://imgs2.dab3games.com/long-neck-run-game794.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/480cba2a3611437e877967560fc26376/?gd_sdk_referrer_url=https://lagged.com/en/g/long-neck-run"
+  },
+  {
+    "name": "Stickman Skate",
+    "icon": "https://imgs2.dab3games.com/stickman-skate-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/52ddce7fb34a494282a4f73b181ceb07/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-skate"
+  },
+  {
+    "name": "Draw Bridge Puzzle",
+    "icon": "https://imgs2.dab3games.com/draw-bridge-puzzle13.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/8f02fb03334e43b88f9cb21fd1148912/?gd_sdk_referrer_url=https://lagged.com/en/g/draw-bridge-puzzle"
+  },
+  {
+    "name": "Stickman Warrior",
+    "icon": "https://imgs2.dab3games.com/stickman-warrior-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/69a2331f390e4b49bb9445158487517f/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-warrior"
+  },
+  {
+    "name": "Tower Wars",
+    "icon": "https://imgs2.dab3games.com/tower-wars-game13.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/mathfight21/"
+  },
+  {
+    "name": "Stickman Army",
+    "icon": "https://imgs2.dab3games.com/stickman-army-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/2ad9db90679c4f2581024ffd07710579/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-army"
+  },
+  {
+    "name": "Fire vs Water Fights",
+    "icon": "https://imgs2.dab3games.com/fire-vs-water-fights3020.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/41eb68a559fa4e7dbc710df82fb2d969/?gd_sdk_referrer_url=https://lagged.com/en/g/fire-vs-water-fights"
+  },
+  {
+    "name": "Super Stickman Duelist",
+    "icon": "https://imgs2.dab3games.com/super-stickman-duelist6210.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/4d9989fddba94bed86a1c943219ff0d1/?gd_sdk_referrer_url=https://lagged.com/en/g/super-stickman-duelist388"
+  },
+  {
+    "name": "Party Stickman 4 Player",
+    "icon": "https://imgs2.dab3games.com/party-stickman-4-player-1148.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/party-stickman-4-player-8339/"
+  },
+  {
+    "name": "Stick Duel Battle",
+    "icon": "https://imgs2.dab3games.com/stick-duel-battle2184.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/1d7959f081b4453498ee9916b693988c/?gd_sdk_referrer_url=https://lagged.com/en/g/stick-duel-battle"
+  },
+  {
+    "name": "Stickman Army: Team Battle",
+    "icon": "https://imgs2.dab3games.com/stickman-army-team-battle.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/7047b1c176bb43099fd7addfb83498a9/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-army-team-battle"
+  },
+  {
+    "name": "Draw Save Stickman 2",
+    "icon": "https://imgs2.dab3games.com/draw-save-puzzle-stickman-219.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/protect-emojis-1356/"
+  },
+  {
+    "name": "Stickman Draw to Save",
+    "icon": "https://imgs2.dab3games.com/drw-save-stickman22.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/protect-emojis-1356/"
+  },
+  {
+    "name": "Join Clash Epic Battle",
+    "icon": "https://imgs2.dab3games.com/join-clash-epic-battle9596.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/612678047f124bd49ad077d07da8b18a/?gd_sdk_referrer_url=https://lagged.com/en/g/join-clash-epic-battle"
+  },
+  {
+    "name": "Stickman Armed Assassin",
+    "icon": "https://imgs2.dab3games.com/stickman-armed-assassin-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/13e122a0f2554c029f47eaa38a3548e2/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-armed-assassin"
+  },
+  {
+    "name": "Draw and Save Stickman",
+    "icon": "https://imgs2.dab3games.com/draw-and-save-stickman1366.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/edf291a5aa964081a3d20ed12bb0e005/?gd_sdk_referrer_url=https://lagged.com/en/g/draw-and-save-stickman"
+  },
+  {
+    "name": "Stickman Skyblock Parkour",
+    "icon": "https://imgs2.dab3games.com/stickman-skyblock-parkour-1235.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-skyblock-parkour-2094/"
+  },
+  {
+    "name": "Stickman Boxing",
+    "icon": "https://imgs2.dab3games.com/stickman-boxing-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0776a6148dd44a7f8e9b7730c1a11610/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-boxing"
+  },
+  {
+    "name": "Castle Keeper",
+    "icon": "https://imgs2.dab3games.com/castle-keeper1672.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/f2ceb5500f7b4f2e8b41a25a06d04ded/?gd_sdk_referrer_url=https://lagged.com/en/g/castle-keeper"
+  },
+  {
+    "name": "Mr Herobrine",
+    "icon": "https://imgs2.dab3games.com/mr-herobrine3838.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/fa4261d059c843fbac5e5ce6517023ab/?gd_sdk_referrer_url=https://lagged.com/en/g/mr-herobrine"
+  },
+  {
+    "name": "Draw Save Puzzles",
+    "icon": "https://imgs2.dab3games.com/draw-save-puzzle617.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/edf291a5aa964081a3d20ed12bb0e005/?gd_sdk_referrer_url=https://lagged.com/en/g/draw-save-puzzles"
+  },
+  {
+    "name": "Stickman Team Force",
+    "icon": "https://imgs2.dab3games.com/stickman-team-force-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/06d3403340c140aca2bf554b2f4c732f/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-team-force"
+  },
+  {
+    "name": "Stickman Trampoline",
+    "icon": "https://imgs2.dab3games.com/stickman-trampoline-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0aa2ff0addd642a5a423c03665dc4bc0/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-trampoline"
+  },
+  {
+    "name": "Sarens",
+    "icon": "https://imgs2.dab3games.com/sarens5404.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/da2db48bf9214ed4bfbf47d04b0235b8/?gd_sdk_referrer_url=https://lagged.com/en/g/sarens"
+  },
+  {
+    "name": "Rope Help",
+    "icon": "https://imgs2.dab3games.com/rope-help-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/a7e9246866aa4e25b7140d7e921b2943/?gd_sdk_referrer_url=https://lagged.com/en/g/rope-help"
+  },
+  {
+    "name": "Stick Clash Online",
+    "icon": "https://imgs2.dab3games.com/stick-clash-online9860.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0a33b3126432444ea0127f9fded4a09a/?gd_sdk_referrer_url=https://lagged.com/en/g/stick-clash-online"
+  },
+  {
+    "name": "Join Scroll Run",
+    "icon": "https://imgs2.dab3games.com/join-scroll-run7685.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/1ef099f234f0461381764ee4357de31f/?gd_sdk_referrer_url=https://lagged.com/en/g/join-scroll-run"
+  },
+  {
+    "name": "Sniper Trigger Revenge",
+    "icon": "https://imgs2.dab3games.com/sniper-trigger-revenge3870.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/6de8c2b79cae477dacf7a7c400b90fd2/?gd_sdk_referrer_url=https://lagged.com/en/g/sniper-trigger-revenge"
+  },
+  {
+    "name": "Save the Ragdoll",
+    "icon": "https://imgs2.dab3games.com/save-the-ragdoll-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/save-the-ragdoll/"
+  },
+  {
+    "name": "Fly with Rope",
+    "icon": "https://imgs2.dab3games.com/fly-with-rope-game-iucoz.jpg",
+    "is_landscape": false,
+    "url": "https://games.softgames.de/fly-with-rope/?locale=en&p=pub-12406-12406"
+  },
+  {
+    "name": "Towers: Card Battles",
+    "icon": "https://imgs2.dab3games.com/towers-card-battles6347.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/6872d839466943079afe0010e6b66600/?gd_sdk_referrer_url=https://lagged.com/en/g/towers-card-battles"
+  },
+  {
+    "name": "Stickman Attack",
+    "icon": "https://imgs2.dab3games.com/stickman-attack-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/killer-city5/"
+  },
+  {
+    "name": "Stickman Biker",
+    "icon": "https://imgs2.dab3games.com/stickman-biker-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/69ec5510f0af413697a871bff5caf1ae/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-biker"
+  },
+  {
+    "name": "Super Stickman Sling",
+    "icon": "https://imgs2.dab3games.com/super-stickman-sling-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/599e07f9ed074845aa099aed24b9006c/?gd_sdk_referrer_url=https://lagged.com/en/g/super-stickman-sling"
+  },
+  {
+    "name": "Stickman Sports Badminton",
+    "icon": "https://imgs2.dab3games.com/stickman-sports-badminton-889.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-sports-badminton-117/"
+  },
+  {
+    "name": "Bloody Archers",
+    "icon": "https://imgs2.dab3games.com/bloody-archers-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/bloody-archers5/"
+  },
+  {
+    "name": "Stickman Army: Defenders",
+    "icon": "https://imgs2.dab3games.com/stickman-army-defenders-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/0038ec5cf20447e9b9c7570f74b37699/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-army-defenders"
+  },
+  {
+    "name": "Stick Hero",
+    "icon": "https://imgs2.dab3games.com/stick-hero-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/stick-hero/"
+  },
+  {
+    "name": "Gun Fu 2",
+    "icon": "https://imgs2.dab3games.com/gun-fu-2-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/c58e09feb0b148519838e4c43545f849/?gd_sdk_referrer_url=https://lagged.com/en/g/gun-fu-2"
+  },
+  {
+    "name": "Stickman Warriors",
+    "icon": "https://imgs2.dab3games.com/-stickman-warriors9526.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/45404e8b6c0943428defb5be568d6793/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-warriors"
+  },
+  {
+    "name": "Legends Online",
+    "icon": "https://imgs2.dab3games.com/legends-game5.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/stickman-battle-royale4/"
+  },
+  {
+    "name": "Stickman Upgrade Complete",
+    "icon": "https://imgs2.dab3games.com/stickman-upgrade-complete-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/e2660fe1b5264b29a8e1f7a8ab0fedbf/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-upgrade-complete"
+  },
+  {
+    "name": "Death Punch",
+    "icon": "https://imgs2.dab3games.com/death-punch-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/9d377e7196574c8383383667202896c0/?gd_sdk_referrer_url=https://lagged.com/en/g/death-punch"
+  },
+  {
+    "name": "Stickdoll 2",
+    "icon": "https://imgs2.dab3games.com/stickdoll-29390.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/9d7d414d636f4d00bc8b009307ec5111/?gd_sdk_referrer_url=https://lagged.com/en/g/stickdoll-2"
+  },
+  {
+    "name": "Stickman Huggy",
+    "icon": "https://imgs2.dab3games.com/stickman-huggy-617.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-huggy-2849/"
+  },
+  {
+    "name": "Stick Warrior",
+    "icon": "https://imgs2.dab3games.com/stick-warrior-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/1a9ae5e8d82a4486a9189d887043c31e/?gd_sdk_referrer_url=https://lagged.com/en/g/stick-warrior"
+  },
+  {
+    "name": "Sneak Runner 3D",
+    "icon": "https://imgs2.dab3games.com/sneak-runner-3d5002.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/d4f5dc47be5f45159fd8e8127c880bd3/?gd_sdk_referrer_url=https://lagged.com/en/g/sneak-runner-3d"
+  },
+  {
+    "name": "Stickman Death Run",
+    "icon": "https://imgs2.dab3games.com/stickman-death-run-1258.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stickman-death-run-14116/"
+  },
+  {
+    "name": "Rise Up",
+    "icon": "https://imgs2.dab3games.com/rise-up-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/rise-up2/"
+  },
+  {
+    "name": "Stickman Peacekeeper",
+    "icon": "https://imgs2.dab3games.com/stickman-peacekeeper-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/8a032695857f431ab53f240e42aed41a/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-peacekeeper"
+  },
+  {
+    "name": "Duel of wizards",
+    "icon": "https://imgs2.dab3games.com/duel-of-wizards-2943.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/bc0615a88e7f41e68aa555c03b1b1c46/?gd_sdk_referrer_url=https://lagged.com/en/g/duel-of-wizards"
+  },
+  {
+    "name": "Stickman Rise Up",
+    "icon": "https://imgs2.dab3games.com/stickman-rise-up-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/c351b3d250a9410fa21c2033841b3919/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-rise-up"
+  },
+  {
+    "name": "Run Around Online",
+    "icon": "https://imgs2.dab3games.com/run-around-online-game.png",
+    "is_landscape": false,
+    "url": "https://h5.4j.com/Run-Around-Online/index.php?pubid=LBE5SJZ4"
+  },
+  {
+    "name": "Pixel Stickman",
+    "icon": "https://imgs2.dab3games.com/pixel-stickman-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/pixel-stickman/"
+  },
+  {
+    "name": "Stickman Vector",
+    "icon": "https://imgs2.dab3games.com/stickman-vector-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/ff53ec402f42403f9202d06208b43cb1/?gd_sdk_referrer_url=https://lagged.com/en/g/stickman-vector"
+  }
+]

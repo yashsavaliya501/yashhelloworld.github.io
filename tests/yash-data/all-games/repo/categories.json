@@ -1,0 +1,205 @@
+[
+	{
+    "name": "Arcade Games",
+    "image": "https://playatme.com/img/console-6/all-games/arcade_games_img.png",
+    "description": "Music, Challenge, Crazy",
+    "sub_categories": [
+      {
+        "name": "Arcade Games",
+        "icon": "https://imgs2.dab3games.com/sonic-runner-game.png",
+        "games": "categories/arcade-games/arcade_games.json"
+      },
+      {
+        "name": "Music Games",
+        "icon": "https://imgs2.dab3games.com/neon-dance-game30.png",
+        "games": "categories/arcade-games/music_games.json"
+      },
+      {
+        "name": "Crazy Games",
+        "icon": "https://imgs2.dab3games.com/hopping-heads-game3.png",
+        "games": "categories/arcade-games/crazy_games.json"
+      },
+
+      {
+        "name": "Animal Games",
+        "icon": "https://imgs2.dab3games.com/save-the-dog--rescue-the-dog-969.png",
+        "games": "categories/arcade-games/animal_games.json"
+      },
+      {
+        "name": "Dentist Games",
+        "icon": "https://imgs2.dab3games.com/crazy-dentist-game.png",
+        "games": "categories/arcade-games/dentist_games.json"
+      },
+      {
+        "name": "2 Player Games",
+        "icon": "https://imgs2.dab3games.com/kissy-huggy-game15.png",
+        "games": "categories/arcade-games/2_player_games.json"
+      }
+    ]
+  },
+  {
+    "name": "Action Games",
+    "image": "https://playatme.com/img/console-6/all-games/action_games_img.png",
+    "description": "War, Weapons, Shooting",
+    "sub_categories": [
+      {
+        "name": "Sniper Games",
+        "icon": "https://play-lh.googleusercontent.com/NoqPAKQPBJsuey-p-_MFFgJ9wZU8FrDT8LcpclFiGikvAQVRhQWZ1VDdCe-stc174Ts=rw",
+        "games": "categories/action-games/sniper_games.json"
+      },
+      {
+        "name": "Ninja Games",
+        "icon": "https://imgs2.dab3games.com/stealth-master-3d-game15.png",
+        "games": "categories/action-games/ninja_games.json"
+      },
+      {
+        "name": "Shooting Games",
+        "icon": "https://en.uoldown.com/icon/android/garena-free-fire-max/garena-free-fire-max-android.png",
+        "games": "categories/action-games/shooting_games.json"
+      },
+      {
+        "name": "Stickman Games",
+        "icon": "https://play-lh.googleusercontent.com/MAZQRPKn6qpSaVwOnZVDqSFox-h88uDgJ5P4mzugG4Ya_HsDnf59TkN4neb-N086Mw",
+        "games": "categories/action-games/stickman_games.json"
+      },
+      {
+        "name": "Police Games",
+        "icon": "https://cdn6.aptoide.com/imgs/d/7/3/d7360cc6360e21c6e7ae754ada55f154_icon.jpg",
+        "games": "categories/action-games/police_games.json"
+      },
+      {
+        "name": "Multiplayer Games",
+        "icon": "https://assets-prd.ignimgs.com/2022/04/15/new-state-mobile-button-1650045449873.jpg",
+        "games": "categories/action-games/multiplayer_games.json"
+      }
+    ]
+  },
+  {
+    "name": "Car Games",
+    "image": "https://playatme.com/img/console-6/all-games/car_games_img.png",
+    "description": "Car, Bike, Truck",
+    "sub_categories": [
+      {
+        "name": "Racing Games",
+        "icon": "https://cdn6.aptoide.com/imgs/d/e/1/de1608edd28a7503e7bb528a2cbf8378_icon.png",
+        "games": "categories/car-games/racing_games.json"
+      },
+      {
+        "name": "Bike Games",
+        "icon": "https://play-lh.googleusercontent.com/ddz_ad3ip34Mdq4TGbZwHil-7uhJHlicdBd3lyRY0jbYoi9_nSAUV0Lp7J9F6XL6nA",
+        "games": "categories/car-games/bike_games.json"
+      },
+      {
+        "name": "Truck Games",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmFscGhhLnRydWNrLnNpbXVsYXRvci5ldXJvLmRyaXZlci5yYWNpbmdnYW1lc19pY29uXzE1NTQzMDQ5NzlfMDEz/icon.png?w=&fakeurl=1",
+        "games": "categories/car-games/truck_games.json"
+      },
+      {
+        "name": "Police Car Games",
+        "icon": "https://cdnb.artstation.com/p/assets/images/images/019/680/405/large/tanveer-asx-icon5.jpg?1564565625",
+        "games": "categories/car-games/police_car_games.json"
+      },
+      {
+        "name": "Airplane Games",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmFlcm9wbGFuZS5mbHlpbmcuc2ltdWxhdG9yX2ljb25fMTY3MzU4NDQzNl8wMTY/icon.png?w=&fakeurl=1",
+        "games": "categories/car-games/airplane_games.json"
+      },
+      {
+        "name": "Drag Racing Games",
+        "icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuzCW9OZpA-2ByWM4AHo452i2l0CPOr-6maluRojaSMOoZJjvS",
+        "games": "categories/car-games/drag_racing_games.json"
+      }
+    ]
+  },
+  {
+    "name": "Puzzle Games",
+    "image": "https://playatme.com/img/console-6/all-games/puzzle_games_img.png",
+    "description": "Block, Merge, Sort",
+    "sub_categories": [
+      {
+        "name": "Puzzle Games",
+        "icon": "https://imgs2.dab3games.com/save-the-girl-game.png",
+        "games": "categories/puzzle-games/puzzle_games.json"
+      },
+      {
+        "name": "Brain Games",
+        "icon": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png",
+        "games": "categories/puzzle-games/brain_games.json"
+      },
+      {
+        "name": "Archery Games",
+        "icon": "https://imgs2.dab3games.com/small-archer-game.png",
+        "games": "categories/puzzle-games/archery_games.json"
+      },
+      {
+        "name": "Snake Games",
+        "icon": "https://imgs2.dab3games.com/snake-io-funny-game34.png",
+        "games": "categories/puzzle-games/snake_games.json"
+      },
+      {
+        "name": "Clicker Games",
+        "icon": "https://imgs2.dab3games.com/pop-it-puzzle-game4.png",
+        "games": "categories/puzzle-games/clicker_games.json"
+      },
+      {
+        "name": "Dash Games",
+        "icon": "https://geometrydash-free.com/data/image/geometrydash.png",
+        "games": "categories/puzzle-games/dash_games.json"
+      }
+    ]
+  },
+  {
+    "name": "Sport Games",
+    "image": "https://playatme.com/img/console-6/all-games/sport_games_img.png",
+    "description": "Football, Basketball, Soccer",
+    "sub_categories": [
+      {
+        "name": "Basketball Games",
+        "icon": "https://imgs2.dab3games.com/super-hoops-basketball-1674.png",
+        "games": "categories/sport-games/basketball_games.json"
+      },
+      {
+        "name": "football Games",
+        "icon": "https://imgs2.dab3games.com/football-superstars-2022-916.png",
+        "games": "categories/sport-games/football_games.json"
+      },
+      {
+        "name": "Boxing Games",
+        "icon": "https://www.androidfreeware.net/img2/com-fa-tag-boxing-fighting.jpg",
+        "games": "categories/sport-games/boxing_games.json"
+      },
+      {
+        "name": "Soccer Games",
+        "icon": "https://imgs2.dab3games.com/battle-arena-soccer23.png",
+        "games": "categories/sport-games/soccer_games.json"
+      },
+      {
+        "name": "Mix Sport Games",
+        "icon": "https://imgs2.dab3games.com/toon-cup-2021-game25.png",
+        "games": "categories/sport-games/mix_sport_games.json"
+      }
+    ]
+  },
+  {
+    "name": "Running Games",
+    "image": "https://playatme.com/img/console-6/all-games/running_games_img.png",
+    "description": "Running, Subway, Catch",
+    "sub_categories": [
+      {
+        "name": "Running Games",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273222806e5d36a1eae01e9cd9a",
+        "games": "categories/running-games/running_games.json"
+      },
+      {
+        "name": "New Games",
+        "icon": "https://imgs2.dab3games.com/killer-city-game.png",
+        "games": "categories/running-games/new_games.json"
+      },
+      {
+        "name": "Upgrade Games",
+        "icon": "https://imgs2.dab3games.com/monster-evolution-dna-game835.png",
+        "games": "categories/running-games/upgrade_games.json"
+      }
+    ]
+  }
+]

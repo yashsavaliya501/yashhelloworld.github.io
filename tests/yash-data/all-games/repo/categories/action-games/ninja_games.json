@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Ninja Clash Heroes",
+    "icon": "https://imgs2.dab3games.com/ninja-clash-heroes-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-clash-heroes/"
+  },
+  {
+    "name": "Stealth Master 3D",
+    "icon": "https://imgs2.dab3games.com/stealth-master-3d-game15.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/stealth-master-3d-rd/"
+  },
+  {
+    "name": "The Last Ninja",
+    "icon": "https://imgs2.dab3games.com/the-last-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/the-last-ninja-db4/"
+  },
+  {
+    "name": "Stealth Hunter",
+    "icon": "https://imgs2.dab3games.com/stealth-master-gms121.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/d4565c4e68364d5291abe6ffc43a2870/?gd_sdk_referrer_url=https://lagged.com/en/g/stealth-hunter"
+  },
+  {
+    "name": "Fruit Ninja",
+    "icon": "https://imgs2.dab3games.com/fruit-ninja-online-game37.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/2e0f4c7c23b041768bf7869a1ed89669/?gd_sdk_referrer_url=https://lagged.com/en/g/fruit-ninja"
+  },
+  {
+    "name": "Parkour Race Runner",
+    "icon": "https://imgs2.dab3games.com/parkour-race-online-game100.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/parkour-run-19938/"
+  },
+  {
+    "name": "Fruit Break",
+    "icon": "https://imgs2.dab3games.com/fruit-break-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/fruit-break3/"
+  },
+  {
+    "name": "Slice Fruit",
+    "icon": "https://imgs2.dab3games.com/slice-fruit-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/slice-fruit2/"
+  },
+  {
+    "name": "Rabbit Samurai",
+    "icon": "https://imgs2.dab3games.com/rabbit-samurai-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/rabbit-samurai2/"
+  },
+  {
+    "name": "Fruit Master",
+    "icon": "https://imgs2.dab3games.com/fruit-master-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/fruit-master/"
+  },
+  {
+    "name": "Punch Man",
+    "icon": "https://imgs2.dab3games.com/punch-man-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/punch-man5/"
+  },
+  {
+    "name": "Ninja Cat",
+    "icon": "https://imgs2.dab3games.com/ninja-cat-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-cat3/"
+  },
+  {
+    "name": "Ninja Academy",
+    "icon": "https://imgs2.dab3games.com/ninja-academy-game43.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ninja-academy2/"
+  },
+  {
+    "name": "Knife Ninja",
+    "icon": "https://imgs2.dab3games.com/knife-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/knife-ninja/"
+  },
+  {
+    "name": "Ninja Action",
+    "icon": "https://imgs2.dab3games.com/ninja-action-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-action/"
+  },
+  {
+    "name": "Cube Ninja",
+    "icon": "https://imgs2.dab3games.com/cube-ninja-game-qj7oz.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/cube-ninja/"
+  },
+  {
+    "name": "Ultimate Ninja Swing",
+    "icon": "https://imgs2.dab3games.com/ultimate-ninja-swing-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ultimate-ninja-swing4/"
+  },
+  {
+    "name": "Ninja Ascend",
+    "icon": "https://imgs2.dab3games.com/ninja-ascend-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-ascend5/"
+  },
+  {
+    "name": "Good Slice",
+    "icon": "https://imgs2.dab3games.com/good-slice-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/514f3cd3eceb4c4ea9b02903b75795b6/?gd_sdk_referrer_url=https://lagged.com/en/g/good-slice"
+  },
+  {
+    "name": "Spring Ninja",
+    "icon": "https://imgs2.dab3games.com/spring-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/spring-ninja2/"
+  },
+  {
+    "name": "Jump Ninja Hero",
+    "icon": "https://imgs2.dab3games.com/jump-ninja-hero-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/jump-ninja-hero/"
+  },
+  {
+    "name": "Slice Ballz",
+    "icon": "https://imgs2.dab3games.com/slice-ballz-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/slice-ballz3/"
+  },
+  {
+    "name": "Up Down Ninja",
+    "icon": "https://imgs2.dab3games.com/up-down-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/up-down-ninja2/"
+  },
+  {
+    "name": "Ninja Star",
+    "icon": "https://imgs2.dab3games.com/ninja-star-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/ninja-star2/"
+  },
+  {
+    "name": "Katana Fruits",
+    "icon": "https://imgs2.dab3games.com/katana-fruits-highscore.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/katana-fruits2/"
+  },
+  {
+    "name": "Stick Samurai",
+    "icon": "https://imgs2.dab3games.com/stick-hero-online-200.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/stick-samurai2/"
+  },
+  {
+    "name": "Sushi Ninja",
+    "icon": "https://imgs2.dab3games.com/sushi-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/sushi-ninja2/"
+  },
+  {
+    "name": "Apple Saw",
+    "icon": "https://imgs2.dab3games.com/apple-saw-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/apple-saw/"
+  },
+  {
+    "name": "Kage: Ninjas Revenge",
+    "icon": "https://imgs2.dab3games.com/kage-ninjas-revenge-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/kage-ninja-revenge4/"
+  },
+  {
+    "name": "Rope Ninja",
+    "icon": "https://imgs2.dab3games.com/rope-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/rope-ninja3/"
+  },
+  {
+    "name": "Clan Samurai",
+    "icon": "https://imgs2.dab3games.com/clan-samurai-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/clan-samurai/"
+  },
+  {
+    "name": "Ninja Boy",
+    "icon": "https://imgs2.dab3games.com/ninja-boy-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-boy3/"
+  },
+  {
+    "name": "Kunai Master",
+    "icon": "https://imgs2.dab3games.com/kunai-master-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/kunai-master/"
+  },
+  {
+    "name": "Ninja Memory",
+    "icon": "https://imgs2.dab3games.com/ninja-memory-game.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-memory/"
+  },
+  {
+    "name": "Paper Fighter 3D",
+    "icon": "https://imgs2.dab3games.com/paper-fighter-3d-944.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/paper-fighter-3d-6769/"
+  },
+  {
+    "name": "Shadow Fighters: Hero Duel",
+    "icon": "https://imgs2.dab3games.com/shadow-fighters-hero-duel-1351.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/shadow-fighters-hero-duel-10703/"
+  },
+  {
+    "name": "Mr Bullet 2 Online",
+    "icon": "https://imgs2.dab3games.com/mr-bullet-2-online-game.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/1081cd6ac6bc43f7b24487d0b025575d/?gd_sdk_referrer_url=https://lagged.com/en/g/mr-bullet-2-online"
+  },
+  {
+    "name": "Ninjago Spinjitzu Slash",
+    "icon": "https://imgs2.dab3games.com/spinjitzu-slash-games.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/lego-spiderman-adventure/"
+  },
+  {
+    "name": "Gang Fall Party",
+    "icon": "https://imgs2.dab3games.com/gang-fall-party-411.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/gang-fall-party-4441/"
+  },
+  {
+    "name": "Street Mayhem - Beat 'Em Up",
+    "icon": "https://imgs2.dab3games.com/street-mayhem--beat-em-up-1840.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/street-mayhem--beat-em-up-3604/"
+  },
+  {
+    "name": "Ragdoll Gangs",
+    "icon": "https://imgs2.dab3games.com/ragdoll-gangs-784.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ragdoll-gangs-3063/"
+  },
+  {
+    "name": "Ultimate Robo Duel 3D",
+    "icon": "https://imgs2.dab3games.com/ultimate-robo-duel-3d-306.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ultimate-robo-duel-3d-8302/"
+  },
+  {
+    "name": "Ninjago Flight of the Ninja",
+    "icon": "https://imgs2.dab3games.com/flight-of-the-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/lego-spiderman-adventure/"
+  },
+  {
+    "name": "Ninja Physics Swing",
+    "icon": "https://imgs2.dab3games.com/rope-ninja-swing822.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/ultimate-ninja-swing-19893/"
+  },
+  {
+    "name": "Ninja Robo Hero",
+    "icon": "https://imgs2.dab3games.com/ninja-robo-hero3064.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/35a5f547b8214215b75573ae01e74831/?gd_sdk_referrer_url=https://lagged.com/en/g/ninja-robo-hero"
+  },
+  {
+    "name": "Kingdom of Ninja 2",
+    "icon": "https://imgs2.dab3games.com/ninja-333461.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/kingdom-of-ninja-2-6900/"
+  },
+  {
+    "name": "Kingdom of Ninja 6",
+    "icon": "https://imgs2.dab3games.com/ninja-44729.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/kingdom-of-ninja-6-4752/"
+  },
+  {
+    "name": "Martial Arts: Fighter Duel",
+    "icon": "https://imgs2.dab3games.com/martial-arts-fighter-duel-1943.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/martial-arts-fighter-duel-2184/"
+  },
+  {
+    "name": "Martial Arts: Fighter Duel",
+    "icon": "https://imgs2.dab3games.com/martial-arts-fighter-duel-1101.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/martial-arts-fighter-duel-8817/"
+  },
+  {
+    "name": "Ninja Blade",
+    "icon": "https://imgs2.dab3games.com/ninja-blade-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/ninja-blade/"
+  },
+  {
+    "name": "Heads Mayhem",
+    "icon": "https://imgs2.dab3games.com/heads-mayhem-211.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/heads-mayhem-1494/"
+  },
+  {
+    "name": "Fruit Slice Frenzy",
+    "icon": "https://imgs2.dab3games.com/fruit-slice-frenzy-game148.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/fruit-slice-frenzy-9922/"
+  },
+  {
+    "name": "Ninja vs Slime",
+    "icon": "https://imgs2.dab3games.com/ninja-vs-slime-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play2/ninja-vs-slime2/"
+  },
+  {
+    "name": "Pizza Ninja 3",
+    "icon": "https://imgs2.dab3games.com/pizza-ninja-game.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/pizza-ninja-3/A-0D1OG"
+  },
+  {
+    "name": "Stick Hero",
+    "icon": "https://imgs2.dab3games.com/stick-hero-game.jpg",
+    "is_landscape": false,
+    "url": "https://lagged.com/api/play/stick-hero/"
+  },
+  {
+    "name": "Sushi Ninja Dash",
+    "icon": "https://imgs2.dab3games.com/sushi-ninja-dash-game-zmn.jpg",
+    "is_landscape": false,
+    "url": "https://play.famobi.com/sushi-ninja-dash/A-0D1OG"
+  },
+  {
+    "name": "Ninja Block",
+    "icon": "https://imgs2.dab3games.com/ninja-block-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninjablock/"
+  },
+  {
+    "name": "Kingdom of Ninja 5",
+    "icon": "https://imgs2.dab3games.com/ninja-game222412.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/kingdom-of-ninja-5-740/"
+  },
+  {
+    "name": "Veggie Slice Frenzy",
+    "icon": "https://imgs2.dab3games.com/veggie-slice-frenzy-1659.png",
+    "is_landscape": false,
+    "url": "https://lagged.com/games/play2/veggie-slice-frenzy-19135/"
+  },
+  {
+    "name": "Ninja Ranmaru",
+    "icon": "https://imgs2.dab3games.com/ninja-ranmaru-game-2pd.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/7beb594936bd4e65b3e20c81b299fe68/?gd_sdk_referrer_url=https://lagged.com/en/g/ninja-ranmaru"
+  },
+  {
+    "name": "Ninja Clan",
+    "icon": "https://imgs2.dab3games.com/ninja-clan-game.png",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninja-clan/"
+  },
+  {
+    "name": "Retro Ninja",
+    "icon": "https://imgs2.dab3games.com/retro-ninja-lagged.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/games/retroninja/"
+  },
+  {
+    "name": "Ninja Treasure",
+    "icon": "https://imgs2.dab3games.com/ninja-treasure-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninja-treasure/"
+  },
+  {
+    "name": "Slash FRVR",
+    "icon": "https://imgs2.dab3games.com/slash-frvr-game-nvn.png",
+    "is_landscape": false,
+    "url": "https://slash.frvr.com/alc/?ads=off"
+  },
+  {
+    "name": "Ninja Copter",
+    "icon": "https://imgs2.dab3games.com/ninja-copter-game.png",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninja-copter/"
+  },
+  {
+    "name": "Retro Ninja",
+    "icon": "https://imgs2.dab3games.com/retro-ninja-lagged.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/games/retroninja/"
+  },
+  {
+    "name": "Slice the Fruits",
+    "icon": "https://imgs2.dab3games.com/slice-the-fruits-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/slice-the-fruits/"
+  },
+  {
+    "name": "I am The Ninja 2",
+    "icon": "https://imgs2.dab3games.com/i-am-the-ninja-2-game.jpg",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/e0399db4821d4e22a7e86eb01e85c9b7/?gd_sdk_referrer_url=https://lagged.com/en/g/i-am-the-ninja-2"
+  },
+  {
+    "name": "Rain of Arrows",
+    "icon": "https://imgs2.dab3games.com/rain-of-arrows-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/rain-of-arrows2/"
+  },
+  {
+    "name": "Ninja Time",
+    "icon": "https://imgs2.dab3games.com/ninja-time-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninja-time4/"
+  },
+  {
+    "name": "Samurai Dash",
+    "icon": "https://imgs2.dab3games.com/samurai-dash-game.png",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/samurai-dash/"
+  },
+  {
+    "name": "Ninja Wall Runner",
+    "icon": "https://imgs2.dab3games.com/ninja-wall-runner-game.jpg",
+    "is_landscape": false,
+    "url": "http://lagged.com/api/play/ninja-wall-runner/"
+  },
+  {
+    "name": "No Problamas",
+    "icon": "https://imgs2.dab3games.com/no-problamas1878.png",
+    "is_landscape": false,
+    "url": "https://html5.gamedistribution.com/7f2b15347a2b4a228aee0a6f85aebfcb/?gd_sdk_referrer_url=https://lagged.com/en/g/no-problamas"
+  }
+]
