@@ -38,7 +38,7 @@
     
     "enable_mix_mode": true,
     "max_clicks": 1,
-    "mrec_mode": "...",
+    "mrec_mode": "admob",
     "enable_native_banner": true
     
   }
