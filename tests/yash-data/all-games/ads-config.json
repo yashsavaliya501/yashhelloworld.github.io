@@ -31,15 +31,15 @@
     
     "house_app_open": "",
 
-    "inter_mode": "...",
-    "inter_mix": "...",
-    "native_mode": "...",
-    "banner_mode": "...",
+    "inter_mode": "admob",
+    "inter_mix": "admob",
+    "native_mode": "admob",
+    "banner_mode": "admob",
     
     "enable_mix_mode": true,
     "max_clicks": 1,
     "mrec_mode": "...",
-    "enable_native_banner": false
+    "enable_native_banner": true
     
   }
 }
