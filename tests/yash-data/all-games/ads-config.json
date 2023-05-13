@@ -1,10 +1,10 @@
 {
   "ads_config": {
-    "admob_app_id": "ca-app-pub-3996962326036356~5993201317",
-    "admob_app_open": "ca-app-pub-3996962326036356/3367037973",
-    "admob_banner": "...",
-    "admob_inter": "ca-app-pub-3996962326036356/9772664225",
-    "admob_native": "...",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
 
     "applovin_banner": "9ef5f938845ed954",
     "applovin_inter": "bf3eb32653b02ac8",
@@ -31,15 +31,15 @@
     
     "house_app_open": "",
 
-    "inter_mode": "...",
-    "inter_mix": "...",
-    "native_mode": "...",
-    "banner_mode": "...",
+    "inter_mode": "admob",
+    "inter_mix": "admob",
+    "native_mode": "admob",
+    "banner_mode": "admob",
     
     "enable_mix_mode": true,
     "max_clicks": 1,
-    "mrec_mode": "...",
-    "enable_native_banner": false
+    "mrec_mode": "admob",
+    "enable_native_banner": true
     
   }
 }
